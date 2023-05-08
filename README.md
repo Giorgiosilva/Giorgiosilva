@@ -1,7 +1,7 @@
 <h1 align='center'> Hello There, I´m Giorgio, welcome ! </h1>
 <br />
 
-* 🌱 Currently focused on learning and practicing TypeScript / React / Next / React Native / Node <br>
+* 🌱 Currently focused on learning and practicing TypeScript / React / Next / Node <br>
 * 👨‍💻 You can find my resume at(https://www.linkedin.com/in/giorgio-silva/) <br>
 
 <br />
